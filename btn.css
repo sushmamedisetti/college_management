@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+div {
+    display: inline-block;
+}
+.btnRed, .btnBlue { 
+    padding: 10px 30px;
+    margin-top: 20px;
+    display: block;
+    color: #fff;
+}
+.red {
+    background-color: rgb(83, 231, 83);
+}
